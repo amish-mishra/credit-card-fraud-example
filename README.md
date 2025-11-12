@@ -49,5 +49,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
-This will load the dataset, perform basic feature engineering, train a simple model and produce visualizations similar to those in the notebook.
+This will load the dataset, perform basic feature exploration, train a simple model and produce visualizations similar to those in the notebook.
 The cleaned data will be written to `data/processed/` and all plots will be displayed interactively.
+
